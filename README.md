@@ -23,6 +23,8 @@ This repository serves as a public knowledge base of everything I learn and solv
 ### 🛠️ Tools I Frequently Use
 Autopsy • Volatility • Wireshark • Ghidra • x64dbg • Burp Suite • BloodHound • Splunk • Elastic Stack • Metasploit • Nmap • Gobuster • FFUF • sqlmap • John • Hashcat
 
+🎯 OSCP Preparation (exam-style writeups) → [github.com/muriminicholas/OSCP-Prep](link)
+
 ### 🎯 Purpose
 - Document my learning journey (from intern to professional)
 - Help others who are learning offensive/defensive security
